@@ -1,3 +1,4 @@
   ## BUENAS BUENAS 👋
 
-Watashi wa Jhonnastheru Rearu Desu, moka chan ga oshiete kureta, ironna mitame ni nareru apuri nandate, dore dore!
+Soy Jhonnasther Real, estudiante de Ingeniería de Sistemas.
+Me gusta ehm.... ehmmmm... eeee....
