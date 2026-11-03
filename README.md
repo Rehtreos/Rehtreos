@@ -6,8 +6,10 @@ Desarrollo proyectos enfocados en la parte visual utilizando JavaScript para la 
 ## Portafolio
 
 ---
-## Proyectos Frontend
+> ## Proyectos Frontend
+>
 > - ENS3ÑAD LSC :construction: En desarrollo :construction:
+>
 ---
 
 I am Jhonnasther Real, a student of Engineering Systems of ninth semester!
