@@ -5,9 +5,7 @@ Desarrollo de proyectos enfocados en la parte visual utilizando JavaScript para 
 
 ---
 
-Aprendiendo a hacer un README
-
 ## Proyectos Frontend
 
  - ENS3ÑAD LSC :construction: En desarrollo :construction:
-
+---
