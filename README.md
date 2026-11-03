@@ -6,7 +6,7 @@ Desarrollo de proyectos enfocados en la parte visual utilizando JavaScript para 
 Aprendiendo a hacer un README
 
 ##Índice
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+*[Título e imagen de portada](#Título-e-imagen-de-portada) :construction: Proyecto en construcción :construction:
 *[Insignias](#insignias)
 *[Índice](#índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
