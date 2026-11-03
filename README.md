@@ -9,7 +9,7 @@ Aprendiendo a hacer un README
 
 ##Índice
 
-* - ENS3ÑAD LSC :construction: En desarrollo :construction:
+ - ENS3ÑAD LSC :construction: En desarrollo :construction:
 *[Insignias](#insignias)
 *[Índice](#índice)
 *[Descripción del proyecto](#descripción-del-proyecto)
